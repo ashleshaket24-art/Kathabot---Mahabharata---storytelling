@@ -12,7 +12,7 @@ Kathabot is an AI-based chatbot designed to narrate stories from the Mahabharata
 
 ## Technologies Used
 - HTML, CSS, JavaScript
-- Python / Java
+- Python 
 - Basic NLP / AI logic
 
 ## Project Flow
